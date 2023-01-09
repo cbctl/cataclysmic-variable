@@ -211,13 +211,13 @@ skills:
         level: 100%
 
       - name: Python
-        level: 60%
+        level: 50%
 
       - name: Ruby
-        level: 60%
+        level: 30%
 
       - name: Networking
-        level: 70%
+        level: 50%
 
       - name: Design
         level: 90%
