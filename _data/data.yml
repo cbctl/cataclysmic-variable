@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/pdf/cv.pdf
+    pdf: /assets/pdf/cberesford-cv.pdf
 
     # languages:
     #   title: Languages
@@ -115,7 +115,7 @@ experiences:
       - company: Pivotal
         roles:
         - title: Software Engineer
-          time: Jan 2016 - Dec 2020
+          time: Jan 2016 - Dec 2019
           details: |
             - Maintained database service offering for Cloud Foundry PaaS (redis, cassandra, rabbitmq)
             - Helped design, build and maintain [OSS container runtime for CF PaaS](https://github.com/cloudfoundry/guardian)
