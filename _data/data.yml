@@ -71,10 +71,19 @@ career-profile:
 experiences:
     title: Relevant Experience
     info:
+      - company: Equinix
+        roles:
+        - title: Software Engineer
+          time: June 2023 - present
+          details: |
+            tbh
+
+        skills: |
+          tbd
       - company: Weaveworks
         roles:
         - title: Senior Software Engineer
-          time: Nov 2020 - Present
+          time: Nov 2020 - April 2023
           details: |
             Returning to an IC role, I began on the OSS [eksctl](https://github.com/weaveworks/eksctl) team. I improved
             the project’s OSS presence, management and documentation. I worked
