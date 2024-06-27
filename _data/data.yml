@@ -74,12 +74,15 @@ experiences:
       - company: Equinix
         roles:
         - title: Software Engineer
-          time: June 2023 - present
+          time: June 2023 - June 2024
           details: |
-            This is brand new, so we'll see :)
+            Scoped, planned, researched, designed and built a service to allow customers and staff secure
+            access to their hardware in an emergency via the BMC. The service had 2 "access points": SSH and websocket
+            (exposed via GUI in the customer portal).
+            I was 90% working solo on the project from beginning to end.
 
         skills: |
-          tbd
+          Rust, JS, websockets, BMC, ipmitool, architecture and design, security, product management
       - company: Weaveworks
         roles:
         - title: Senior Software Engineer
@@ -98,7 +101,7 @@ experiences:
             platform. For a time I was the sole maintainer of the project.
 
         skills: |
-          Kubernetes, Go, linux system administration, cloud computing,  bare-metal computing, linux networking, architecture design, system design, test driven development (TDD), continuous integration (CI), continuous delivery (CD), product management, and edge computing, mentoring, leadership, OSS, Equinix Metal, Raspberry Pi
+          Kubernetes, Go, linux system administration, cloud computing,  bare-metal computing, linux networking, architecture design, system design, test driven development (TDD), continuous integration (CI), continuous delivery (CD), product management, edge computing, mentoring, leadership, OSS, Equinix Metal, Raspberry Pi
       - company: Ori Industries
         roles:
         - title: Lead Software Engineer
@@ -219,8 +222,11 @@ skills:
       - name: Shell Scripting
         level: 100%
 
+      - name: Rust
+        level: 60%
+
       - name: Python
-        level: 50%
+        level: 40%
 
       - name: Ruby
         level: 30%
